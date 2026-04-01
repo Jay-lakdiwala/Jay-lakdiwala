@@ -91,7 +91,7 @@ Travel booking mobile application with structured backend communication.
 
 ---
 
-### 💠 04. [Stock Price Prediction](https://github.com/Jay-lakdiwala) *(In Progress)*
+### 💠 04. [Stock Price Prediction](https://github.com/Jay-lakdiwala/Stock Price Prediction) *(In Progress)*
 Time-series forecasting using LSTM/RNN models to analyze market trends.  
 **Tech:** Pandas • Matplotlib • Scikit-learn
 
